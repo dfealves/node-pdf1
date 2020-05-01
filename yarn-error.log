@@ -1,0 +1,31 @@
+Arguments: 
+  /home/danilo/.nvm/versions/node/v10.16.3/bin/node /usr/share/yarn/bin/yarn.js add express body-parser fs html-pdf
+
+PATH: 
+  /home/danilo/.yarn/bin:/home/danilo/.config/yarn/global/node_modules/.bin:/home/danilo/.nvm/versions/node/v10.16.3/bin:/home/danilo/.yarn/bin:/home/danilo/.config/yarn/global/node_modules/.bin:/home/danilo/.yarn/bin:/home/danilo/.config/yarn/global/node_modules/.bin:/home/danilo/.yarn/bin:/home/danilo/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/danilo/home/Android/Sdk/emulator:/home/danilo/home/Android/Sdk/tools:/home/danilo/home/Android/Sdk/tools/bin:/home/danilo/home/Android/Sdk/platform-tools:/home/danilo/Android/Sdk/tools:/home/danilo/Android/Sdk/platform-tools:/home/danilo/Android/Sdk/tools:/home/danilo/Android/Sdk/platform-tools
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.16.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/danilo/Área de Trabalho/Estudos/node/node-api/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/share/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/share/yarn/lib/cli.js:310:30)
+      at /usr/share/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
